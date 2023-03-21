@@ -22,7 +22,8 @@ The ReactJS Extension Pack includes the following extensions:
 ## Shortcut to access workspace settings ` ⌘+,`
 
 ```JSON
-{
+
+  {
   "eslint.enable": true,
   "files.trimTrailingWhitespace": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -35,11 +36,20 @@ The ReactJS Extension Pack includes the following extensions:
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "typescriptreact"
+  ],
+  "eslint.format.enable": true,
+  "eslint.codeActionsOnSave.mode": "problems",
+
   "prettier.bracketSpacing": true,
   "prettier.printWidth": 80,
   "prettier.singleQuote": true,
   "prettier.semi": false,
-  "prettier.trailingComma": "none",
+  "prettier.trailingComma": "es5",
   "prettier.tabWidth": 2,
   "prettier.useTabs": false,
   "prettier.bracketSameLine": false,
@@ -70,6 +80,7 @@ The ReactJS Extension Pack includes the following extensions:
     "source.organizeImports": true
   }
 }
+
 
 ```
 
