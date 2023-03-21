@@ -1,8 +1,8 @@
 {
-  "name": "vuejspack",
-  "displayName": "Vue.js workbox",
-  "description": "A collection of popular and useful vuejs extensions for working with vuejs applications in VS code. A feature kit to kickstart your vuejs develpment.",
-  "version": "1.5.1",
+  "name": "reactjsworkbox",
+  "displayName": "React.js workbox",
+  "description": "The ReactJS Extension Pack for Visual Studio Code is a collection of extensions specifically designed for web developers who work with the ReactJS library. This extension pack includes a range of useful tools and features to help streamline the development process and improve productivity.",
+  "version": "1.0.0",
   "publisher": "shekhardtu",
   "engines": {
     "vscode": "^1.21.0"
@@ -12,33 +12,30 @@
     "Extension Packs"
   ],
   "keywords": [
-    "vuejs",
-    "vuejs workbox",
-    "vuejs extensions pack",
-    "vuejs plugin pack",
-    "vue extensions pack"
+    "reactjs",
+    "reactjs workbox",
+    "reactjs extensions pack",
+    "reactjs plugin pack",
+    "react extensions pack"
   ],
   "qna": "marketplace",
   "extensionDependencies": [
-    "eg2.vscode-npm-script",
+    "dsznajder.es7-react-js-snippets",
     "christian-kohler.npm-intellisense",
-    "octref.vetur",
+    "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "formulahendry.auto-rename-tag",
     "CoenraadS.bracket-pair-colorizer",
     "wix.vscode-import-cost",
-    "dbaeumer.vscode-eslint",
-    "mrmlnc.vscode-attrs-sorter",
-    "dariofuzinato.vue-peek",
     "eamodio.gitlens",
     "wayou.vscode-todo-highlight",
-    "xabikos.javascriptsnippets",
-    "robertohuertasm.vscode-icons"
+    "robertohuertasm.vscode-icons",
+    "christian-kohler.path-intellisense"
   ],
-  "license": "https://github.com/harishekhar/vuejs-workbox/blob/master/LICENSE",
-  "homepage": "https://github.com/harishekhar/vuejs-workbox/blob/master/README.md",
+  "license": "https://github.com/shekhardtu/reactjs-workbox/blob/master/LICENSE",
+  "homepage": "https://github.com/shekhardtu/reactjs-workbox/blob/master/README.md",
   "bugs": {
-    "url": "https://github.com/harishekhar/vuejs-workbox/pulls",
+    "url": "https://github.com/shekhardtu/reactjs-workbox/pulls",
     "email": "shekhardtu@gmail.com"
   },
   "scripts": {
@@ -48,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/harishekhar/vuejs-workbox"
+    "url": "https://github.com/shekhardtu/reactjs-workbox"
   }
 }

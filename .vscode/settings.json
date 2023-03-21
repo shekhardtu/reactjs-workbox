@@ -1,6 +1,6 @@
 {
   "eslint.enable": true,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
   "files.trimTrailingWhitespace": true,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
