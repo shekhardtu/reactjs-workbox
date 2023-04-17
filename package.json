@@ -2,7 +2,7 @@
   "name": "reactjsworkbox",
   "displayName": "React.js workbox",
   "description": "The ReactJS Extension Pack for Visual Studio Code is a collection of extensions specifically designed for web developers who work with the ReactJS library. This extension pack includes a range of useful tools and features to help streamline the development process and improve productivity.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "shekhardtu",
   "engines": {
     "vscode": "^1.21.0"
