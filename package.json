@@ -29,7 +29,8 @@
     "eamodio.gitlens",
     "wayou.vscode-todo-highlight",
     "robertohuertasm.vscode-icons",
-    "christian-kohler.path-intellisense"
+    "christian-kohler.path-intellisense",
+    "streetsidesoftware.code-spell-checker"
   ],
   "license": "https://github.com/shekhardtu/reactjs-workbox/blob/master/LICENSE",
   "homepage": "https://github.com/shekhardtu/reactjs-workbox/blob/master/README.md",
